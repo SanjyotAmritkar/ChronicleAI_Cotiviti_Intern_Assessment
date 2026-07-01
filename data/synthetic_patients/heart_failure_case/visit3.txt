@@ -1,0 +1,29 @@
+Encounter Date
+2026-03-04
+
+Chief Complaint
+Follow-up for heart failure medication titration.
+
+History of Present Illness
+The patient has seen cardiology and reports taking medications as prescribed. He has mild fatigue since starting carvedilol but no dizziness. Weight is stable. He can walk two blocks before resting. Sodium intake remains inconsistent.
+
+Symptoms
+- Stable exertional dyspnea
+- Mild fatigue
+- No orthopnea
+- Trace ankle edema
+
+Assessment
+Heart failure with reduced ejection fraction, improved volume status but persistent functional limitation. Opportunity to intensify guideline-directed therapy.
+
+Plan
+- Increase carvedilol cautiously if heart rate allows.
+- Add SGLT2 inhibitor for heart failure benefit.
+- Reinforce sodium restriction and daily weights.
+- Repeat labs in two weeks.
+
+Medications
+- Furosemide 20 mg daily
+- Lisinopril 5 mg daily
+- Carvedilol 6.25 mg twice daily
+- Dapagliflozin 10 mg daily

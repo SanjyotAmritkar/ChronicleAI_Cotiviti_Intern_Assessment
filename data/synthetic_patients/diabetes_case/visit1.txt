@@ -1,0 +1,27 @@
+Encounter Date
+2026-01-14
+
+Chief Complaint
+Increased thirst and elevated home glucose readings.
+
+History of Present Illness
+The patient is a 46-year-old female with obesity and family history of diabetes who presents with two months of increased thirst, frequent urination, and fatigue. Home glucose checks borrowed from a family member have been in the 180 to 240 range.
+
+Symptoms
+- Polydipsia
+- Polyuria
+- Fatigue
+- No abdominal pain
+- No blurred vision
+
+Assessment
+New diagnosis of type 2 diabetes mellitus suspected. No symptoms of acute metabolic decompensation.
+
+Plan
+- Order A1c, basic metabolic panel, urine albumin, and lipid panel.
+- Start metformin if renal function is appropriate.
+- Provide nutrition counseling and glucose monitoring education.
+- Follow up in four weeks.
+
+Medications
+- Metformin 500 mg daily with evening meal

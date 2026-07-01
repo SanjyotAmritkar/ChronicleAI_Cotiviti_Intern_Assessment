@@ -1,0 +1,26 @@
+Encounter Date
+2026-02-18
+
+Chief Complaint
+Diabetes follow-up after initial labs.
+
+History of Present Illness
+The patient's A1c returned at 8.9 percent. She has started metformin and reports mild nausea that is improving. Fasting glucose readings are mostly 150 to 180. She has reduced sugary beverages and is walking several times per week.
+
+Symptoms
+- Improved thirst
+- Less frequent urination
+- Mild nausea with metformin
+- No hypoglycemia
+
+Assessment
+Type 2 diabetes mellitus, uncontrolled but early lifestyle improvement noted. Metformin tolerated with mild gastrointestinal effects.
+
+Plan
+- Increase metformin gradually to twice daily dosing.
+- Refer for diabetes education.
+- Discuss foot care and annual eye exam.
+- Recheck A1c in three months.
+
+Medications
+- Metformin 500 mg twice daily with meals

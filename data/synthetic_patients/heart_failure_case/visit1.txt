@@ -1,0 +1,28 @@
+Encounter Date
+2026-01-21
+
+Chief Complaint
+Shortness of breath and ankle swelling.
+
+History of Present Illness
+The patient is a 72-year-old male with prior myocardial infarction who presents with progressive exertional dyspnea, orthopnea, and bilateral ankle swelling over six weeks. He sleeps on three pillows and has gained six pounds since his last primary care visit.
+
+Symptoms
+- Dyspnea on exertion
+- Orthopnea
+- Bilateral ankle edema
+- Weight gain
+- No fever or productive cough
+
+Assessment
+Suspected new or worsening congestive heart failure with volume overload. Needs diagnostic confirmation and diuresis.
+
+Plan
+- Order BNP, basic metabolic panel, chest x-ray, and echocardiogram.
+- Start loop diuretic.
+- Counsel on daily weights and low sodium diet.
+- Follow up in one week or sooner for worsening dyspnea.
+
+Medications
+- Furosemide 20 mg daily
+- Lisinopril 5 mg daily

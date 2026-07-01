@@ -1,0 +1,27 @@
+Encounter Date
+2026-06-17
+
+Chief Complaint
+Three-month diabetes follow-up.
+
+History of Present Illness
+The patient's repeat A1c improved to 7.2 percent. She reports consistent medication use, continued walking, and fewer high carbohydrate snacks. Eye exam showed no diabetic retinopathy. Foot tingling occurs rarely.
+
+Symptoms
+- Improved energy
+- Rare foot tingling
+- No hypoglycemia
+- No visual complaints
+
+Assessment
+Type 2 diabetes mellitus with significant improvement in glycemic control. Preventive care is now up to date with eye exam and diabetes education completed.
+
+Plan
+- Continue current regimen.
+- Consider semaglutide dose increase if A1c remains above individualized goal.
+- Repeat A1c in three months.
+- Continue lifestyle changes and daily foot checks.
+
+Medications
+- Metformin 500 mg twice daily with meals
+- Semaglutide 0.25 mg weekly

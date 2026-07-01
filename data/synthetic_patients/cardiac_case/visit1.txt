@@ -1,0 +1,28 @@
+Encounter Date
+2026-01-08
+
+Chief Complaint
+Intermittent chest pressure with exertion.
+
+History of Present Illness
+The patient is a 58-year-old male with hypertension and hyperlipidemia who presents after three weeks of substernal chest pressure while climbing stairs. Symptoms improve with rest after several minutes. He denies syncope or resting chest pain.
+
+Symptoms
+- Exertional chest pressure
+- Mild shortness of breath with activity
+- No palpitations
+- No nausea or diaphoresis
+
+Assessment
+Stable angina suspected in the setting of cardiovascular risk factors. Blood pressure is above goal. No acute ischemic changes reported on office ECG.
+
+Plan
+- Order stress test and lipid panel.
+- Start daily aspirin if no contraindication.
+- Counsel on emergency precautions for chest pain at rest or symptoms lasting more than 10 minutes.
+- Follow up in four weeks.
+
+Medications
+- Atorvastatin 20 mg daily
+- Lisinopril 10 mg daily
+- Aspirin 81 mg daily

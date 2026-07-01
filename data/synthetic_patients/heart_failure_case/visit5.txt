@@ -1,0 +1,29 @@
+Encounter Date
+2026-05-01
+
+Chief Complaint
+Follow-up after heart failure exacerbation.
+
+History of Present Illness
+The patient reports improved breathing after temporary diuretic increase. Weight returned to baseline and edema is minimal. He is using a daily weight log and has reduced canned foods. Renal function remained stable after diuretic adjustment.
+
+Symptoms
+- Improved exertional dyspnea
+- Minimal ankle swelling
+- No orthopnea
+- No dizziness
+
+Assessment
+Heart failure with reduced ejection fraction, recovered from recent volume overload episode. Patient demonstrates better self-monitoring and dietary adherence.
+
+Plan
+- Resume baseline furosemide dose.
+- Continue guideline-directed therapy.
+- Review weight-based escalation instructions.
+- Follow up with cardiology for additional medication optimization.
+
+Medications
+- Furosemide 20 mg daily
+- Lisinopril 5 mg daily
+- Carvedilol 6.25 mg twice daily
+- Dapagliflozin 10 mg daily

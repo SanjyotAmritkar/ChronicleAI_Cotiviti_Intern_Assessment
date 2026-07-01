@@ -1,0 +1,29 @@
+Encounter Date
+2026-02-05
+
+Chief Complaint
+Follow-up after abnormal stress test.
+
+History of Present Illness
+The patient returns after an exercise stress test showed inducible ischemia in the anterior distribution. He reports chest pressure twice in the past month while walking uphill. Episodes resolved with rest. He has started aspirin and reports no bleeding symptoms.
+
+Symptoms
+- Exertional chest pressure, less frequent than prior visit
+- Dyspnea on inclines
+- No chest pain at rest
+- No lower extremity swelling
+
+Assessment
+Coronary artery disease with abnormal stress test and persistent exertional angina. Hypertension remains mildly elevated.
+
+Plan
+- Refer to cardiology for coronary angiography evaluation.
+- Increase atorvastatin intensity.
+- Add beta blocker for angina control.
+- Continue aspirin and blood pressure monitoring.
+
+Medications
+- Atorvastatin 40 mg daily
+- Lisinopril 10 mg daily
+- Aspirin 81 mg daily
+- Metoprolol succinate 25 mg daily

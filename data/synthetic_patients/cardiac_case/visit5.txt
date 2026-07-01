@@ -1,0 +1,30 @@
+Encounter Date
+2026-06-02
+
+Chief Complaint
+Follow-up for coronary artery disease and medication review.
+
+History of Present Illness
+The patient reports no angina since stent placement. He is walking 30 minutes most days and has completed cardiac rehabilitation. He denies bleeding symptoms on dual antiplatelet therapy. He reports improved diet and reduced sodium intake.
+
+Symptoms
+- No chest pressure
+- No exertional dyspnea
+- No edema
+- No medication intolerance reported
+
+Assessment
+Coronary artery disease clinically stable after LAD stent. Risk factor control is improving with lifestyle changes and high-intensity statin therapy.
+
+Plan
+- Continue current cardiac medications.
+- Maintain exercise and dietary changes.
+- Repeat lipid panel before next visit.
+- Continue cardiology follow-up for antiplatelet duration guidance.
+
+Medications
+- Atorvastatin 80 mg daily
+- Lisinopril 10 mg daily
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Metoprolol succinate 25 mg daily

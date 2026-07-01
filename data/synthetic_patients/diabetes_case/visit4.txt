@@ -1,0 +1,27 @@
+Encounter Date
+2026-05-06
+
+Chief Complaint
+Diabetes medication follow-up.
+
+History of Present Illness
+The patient started semaglutide and reports decreased appetite with mild nausea after injections. Fasting glucose readings have improved to 120 to 150. She attended diabetes education and scheduled an eye exam for next month.
+
+Symptoms
+- Improved fasting glucose
+- Mild post-injection nausea
+- Reduced appetite
+- Intermittent foot tingling, improved
+
+Assessment
+Type 2 diabetes mellitus with improving glycemic control after medication intensification and education. Neuropathy symptoms are mild and improving.
+
+Plan
+- Continue metformin and semaglutide.
+- Monitor gastrointestinal symptoms.
+- Complete scheduled eye exam.
+- Recheck A1c at next visit.
+
+Medications
+- Metformin 500 mg twice daily with meals
+- Semaglutide 0.25 mg weekly

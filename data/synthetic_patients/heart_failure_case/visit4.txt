@@ -1,0 +1,29 @@
+Encounter Date
+2026-04-15
+
+Chief Complaint
+Worsening weight gain and shortness of breath.
+
+History of Present Illness
+The patient reports a five-pound weight gain over one week after several high-sodium meals. He has increased ankle swelling and needs two pillows again at night. He denies chest pain. He has been taking furosemide daily.
+
+Symptoms
+- Increased dyspnea on exertion
+- Recurrent orthopnea
+- Worsening ankle edema
+- Rapid weight gain
+
+Assessment
+Heart failure exacerbation likely related to dietary sodium excess despite medication adherence. No chest pain or infectious symptoms reported.
+
+Plan
+- Temporarily increase furosemide dose.
+- Check basic metabolic panel in three days.
+- Provide written sodium and daily weight action plan.
+- Arrange close follow-up within one week.
+
+Medications
+- Furosemide 40 mg daily for 5 days, then 20 mg daily
+- Lisinopril 5 mg daily
+- Carvedilol 6.25 mg twice daily
+- Dapagliflozin 10 mg daily

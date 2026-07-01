@@ -1,0 +1,28 @@
+Encounter Date
+2026-01-29
+
+Chief Complaint
+Heart failure follow-up after starting diuretic.
+
+History of Present Illness
+The patient reports improved breathing and a four-pound weight loss after starting furosemide. He still becomes short of breath walking one block. Echocardiogram shows left ventricular ejection fraction of 35 percent.
+
+Symptoms
+- Improved orthopnea
+- Persistent exertional dyspnea
+- Reduced ankle swelling
+- No dizziness
+
+Assessment
+Heart failure with reduced ejection fraction, likely ischemic cardiomyopathy, with partial response to diuresis.
+
+Plan
+- Continue furosemide.
+- Start evidence-based beta blocker at low dose.
+- Monitor renal function and potassium.
+- Refer to cardiology for guideline-directed medical therapy optimization.
+
+Medications
+- Furosemide 20 mg daily
+- Lisinopril 5 mg daily
+- Carvedilol 3.125 mg twice daily

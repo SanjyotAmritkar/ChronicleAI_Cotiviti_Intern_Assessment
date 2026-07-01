@@ -1,0 +1,28 @@
+Encounter Date
+2026-03-25
+
+Chief Complaint
+Persistent elevated glucose readings.
+
+History of Present Illness
+The patient reports fasting glucose readings between 160 and 210 despite metformin adherence. She missed diabetes education due to work schedule. She reports tingling in both feet at night but no wounds or weakness.
+
+Symptoms
+- Persistent hyperglycemia
+- Nighttime tingling in feet
+- Fatigue after meals
+- No chest pain
+- No visual loss
+
+Assessment
+Type 2 diabetes mellitus with persistent hyperglycemia and possible early peripheral neuropathy. Care gap noted for missed diabetes education and pending eye exam.
+
+Plan
+- Add GLP-1 receptor agonist if insurance coverage allows.
+- Reschedule diabetes education.
+- Perform foot exam and reinforce daily foot checks.
+- Place ophthalmology referral for diabetic eye exam.
+
+Medications
+- Metformin 500 mg twice daily with meals
+- Semaglutide 0.25 mg weekly
